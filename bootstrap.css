@@ -1,0 +1,24 @@
+body {
+    background-color: #E9ECEF ;
+}
+
+h3 {
+    text-align: center;
+    background-color: rgb(247, 163, 160);
+    
+}
+
+.card-title {
+    text-align: center;
+    background-color: rgb(188, 232, 250);
+}
+
+.hakkımızda {
+    text-indent: 25px;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lead {
+    font-size: x-large
+}
